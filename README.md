@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I want to improve my programming skills.
